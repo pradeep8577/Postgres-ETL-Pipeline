@@ -1,0 +1,6 @@
+
+reflex==0.8.14
+psycopg2-binary
+sqlalchemy
+pandas
+
